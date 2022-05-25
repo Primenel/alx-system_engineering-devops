@@ -12,9 +12,9 @@
 
 [5-listfilesdigitonly](./5-listfilesdigitonly) - Display current directory contents. 
 <ul>
-  <li>```Long format```</li>
-  <li>```with user and group IDs displayed numerically```</li>
-  <li>```And hidden files (starting with .)```</li>
+  <li>Long format</li>
+  <li>with user and group IDs displayed numerically</li>
+  <li>And hidden files (starting with .)</li>
 </ul>
 
 [6-firstdirectory](./6-firstdirectory) - Create a script that creates a directory named my_first_directory in the /tmp/ directory.
@@ -47,12 +47,12 @@
 [18-commas](./18-commas) - Write a command that lists all the files and directories of the current directory, separated by commas (,).
 
 <ul>
-  <li>Directory names should end with a slash (/)</li>
-  <li>Files and directories starting with a dot (.) should be listed</li>
-  <li>The listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning</li>
-  <li>Only digits and letters are used to sort; Digits should come first</li>
-  <li>You can assume that all the files we will test with will have at least one letter or one digit</li>
-  <li>The listing should end with a new line.</li>
+  <li>`Directory names should end with a slash (/)`</li>
+  <li>`Files and directories starting with a dot (.) should be listed`</li>
+  <li>`The listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning`</li>
+  <li>`Only digits and letters are used to sort; Digits should come first`</li>
+  <li>`You can assume that all the files we will test with will have at least one letter or one digit`</li>
+  <li>`The listing should end with a new line`</li>
 </ul>
 
 [19-school.mgc](./school.mgc) - Create a magic file holberton.mgc that can be used with the command file to detect Holberton data files. Holberton data files always contain the string HOLBERTON at offset 0.
