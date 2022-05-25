@@ -11,13 +11,11 @@
 [4-listmorefiles](./4-listmorefiles) : Display current directory contents, including hidden files (starting with .). Use the long format.
 
 [5-listfilesdigitonly](./5-listfilesdigitonly) - Display current directory contents. 
-```
 <ul>
-  <li>Long format</li>
-  <li>with user and group IDs displayed numerically</li>
-  <li>And hidden files (starting with .)</li>
+  <li>```Long format```</li>
+  <li>```with user and group IDs displayed numerically```</li>
+  <li>```And hidden files (starting with .)```</li>
 </ul>
-```
 
 [6-firstdirectory](./6-firstdirectory) - Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 
