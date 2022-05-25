@@ -10,8 +10,8 @@
 
 [4-listmorefiles](./4-listmorefiles) :`Display current directory contents, including hidden files (starting with .). Use the long format.`
 
-[5-listfilesdigitonly](./5-listfilesdigitonly) : `Display current directory contents. `
-`<ul>
+[5-listfilesdigitonly](./5-listfilesdigitonly) : `Display current directory contents. 
+<ul>
   <li>Long format</li>
   <li>with user and group IDs displayed numerically</li>
   <li>And hidden files (starting with .)</li>
