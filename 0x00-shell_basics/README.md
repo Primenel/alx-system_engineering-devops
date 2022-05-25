@@ -5,6 +5,7 @@
 [1-listit](./1-listit) : Display the contents list of your current directory.
 
 [2-bring_me_home](./2-bring_me_home) : Write a script that changes the working directory to the user’s home directory.
+<ul><li>You are not allowed to use any shell variables</li></ul>
 
 [3-listfiles](./3-listfiles) : Display current directory contents in a long format
 
