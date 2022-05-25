@@ -23,7 +23,7 @@
 
 [8-firstdelete](./8-firstdelete) - Delete the file betty. 
 <ul>
-  <li>The file betty is in /tmp/holberton</li>
+  <li>The file betty is in /tmp/my_first_directory</li>
 </ul>
 
 [9-firstdirdeletion](./9-firstdirdeletion) - Delete the directory my_first_directory that is in the /tmp directory.
@@ -42,7 +42,7 @@
 
 [16-clean_emacs](./16-clean_emacs) - Create a script that deletes all files in the current working directory that end with the character ~.
 
-[17-tree](./17-tree) - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory. You are only allowed to use two spaces in your script, not more.
+[17-tree](./17-tree) - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. You are only allowed to use two spaces in your script, not more.
 
 [18-commas](./18-commas) - Write a command that lists all the files and directories of the current directory, separated by commas (,).
 
